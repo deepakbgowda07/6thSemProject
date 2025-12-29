@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/*.egg-info": true,
+    ".git": true
+  },
+  "search.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/*.egg-info": true,
+    ".git": true
+  },
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}"
+  ]
+}
